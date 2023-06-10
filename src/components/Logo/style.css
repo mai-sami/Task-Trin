@@ -1,0 +1,9 @@
+.image_logo {
+    width: 60px;
+}
+
+@media (max-width: 700px) {
+    .image_logo {
+        display: none !important;
+    }
+}

@@ -1,0 +1,13 @@
+.CustomButoon {
+    border-radius: 7px;
+    width: 120px;
+    padding: .64rem;
+    font-size: 14px;
+    color: #FFFFFF;
+    background: #003d94;
+    border: none;
+    font-weight: 400;
+    margin: .5rem;
+    cursor: pointer;
+
+}
